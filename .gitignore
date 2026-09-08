@@ -1,0 +1,39 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+target/
+.classpath
+.project
+.settings/
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+*.vscode/
+*.swp
+*.swo
+*~
+.env
+.env.local
+
+# Database
+*.sql
+*.db
+*.sqlite
+
+# Node (if using build tools)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+logs/
