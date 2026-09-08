@@ -125,7 +125,7 @@ emergency-help-contact/
    python -m http.server 8000
    ```
 
-## 📡 API Endpoints
+## 💡 API Endpoints
 
 ### Hospitals
 - `GET /api/hospitals` - Get all hospitals
